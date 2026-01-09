@@ -105,6 +105,3 @@ Developed a full-scale Incident Response Plan using the NIST IR Framework and ou
 
 **Judy Raj** is a cybersecurity and IT governance professional skilled in aligning technology, risk, and compliance strategies for enterprise resilience. Her portfolio demonstrates end-to-end implementation of secure architectures and governance frameworks across network, data, and cloud environments.
 
-📍 **Based in:** Dallas, TX  
-📧 **Email:** judyraj@email.com  
-🌐 **GitHub Portfolio:** [Your GitHub link here]
