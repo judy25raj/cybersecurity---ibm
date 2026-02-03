@@ -1,44 +1,40 @@
-# 🧩 Nerdnest Governance, Risk & Compliance (GRC), ITIL, and Cybersecurity Audit Project
+<h1 align="center">Nerdnest – Governance, Risk & Compliance (GRC) and ITIL Security Audit</h1>
 
-**Submitted by:** Judy Raj  
-**Result:** 50 / 50 (Excellent)  
-**Submission Date:** February 2025  
+<p align="center">
+  GRC Framework • ITIL Service Management • Regulatory Compliance • Audit Readiness
+</p>
 
-This project implements a complete **GRC framework**, aligns **IT services with ITIL**, maps **U.S. regulatory requirements** (SOX, HIPAA, CCPA/CPRA), and establishes **cybersecurity audit readiness** for Nerdnest following a breach.
+<hr/>
 
----
+## 🧭 Overview
+This project presents a comprehensive **Governance, Risk & Compliance (GRC)** framework for a simulated organization, **Nerdnest**, integrating **ITIL service management** and aligning operations with U.S. regulatory requirements.
 
-## 🧭 Project Overview
+The engagement establishes a security governance model, embeds change management, and enables continuous compliance and audit readiness following a security incident.
 
-| **Task** | **Description** | **Points** |
-|---|---|---|
-| **Task 1 – GRC Framework** | Governance structure, risk assessment & treatment, policies/controls, compliance management, continuous monitoring. | 9 |
-| **Task 2 – ITIL & Change Management** | ITIL lifecycle (Strategy, Design, Transition, Operation, CSI) with Change Management integration. | 8 |
-| **Task 3 – Regulatory Compliance** | Apply SOX, HIPAA, CCPA/CPRA implications to Nerdnest operations. | 6 |
-| **Task 4 – Cybersecurity Audits** | Benefits and preparation steps for regular audits. | 7 |
+## 🎯 Engagement Scope
+- Design a full GRC framework (governance, risk, controls, compliance, monitoring)  
+- Align IT services with the **ITIL lifecycle** and change management  
+- Map regulatory obligations (SOX, HIPAA, CCPA/CPRA)  
+- Define cybersecurity audit readiness processes  
 
-**Final Score:** 50 / 50
+## 📂 Artifacts
+- **Nerdnest_GRC_ITIL_Compliance_Report_Judy_Raj.pdf** — executive GRC & ITIL audit report  
+- **Nerdnest_Project8_Submission_Judy_Raj.pdf** — project submission summary  
+- **/images/grc_itil_overview.png** — GRC → ITIL → Audit integration diagram  
+- **references.txt** — regulatory and industry citations  
 
----
+## 🧩 Key Capabilities
 
-## 🧠 Skills Demonstrated
-- Governance, Risk & Compliance (GRC) Framework Design  
-- Risk Assessment & Continuous Monitoring  
-- ITIL Service Management & Change Control  
-- Regulatory Compliance (SOX, HIPAA, CCPA, CPRA)  
-- Cybersecurity Audit Planning & Evidence Readiness  
-- Policy & Procedure Documentation
+### Governance & Risk
+- Organizational governance structure  
+- Risk assessment and treatment plans  
+- Policy and control frameworks  
 
----
+### ITIL & Change Management
+- Strategy → Design → Transition → Operation → CSI  
+- Embedded change control for secure service evolution  
 
-## 🧱 Key Files
-- `Nerdnest_GRC_ITIL_Compliance_Report_Judy_Raj.pdf` — 1-page executive summary  
-- `references.txt` — industry and regulatory citations  
-- `/images/grc_itil_overview.png` — overview diagram (GRC → ITIL → Audit)
-
----
-
-## 🧩 Outcome
-Nerdnest gains a **structured GRC model**, improved **IT service maturity** using ITIL, clear **legal compliance mapping**, and actionable **audit readiness** — strengthening trust and resilience.
-
-📫 Prepared by **Judy Raj**
+### Regulatory Compliance
+- SOX financial controls  
+- HIPAA privacy and security safeguards  
+- CCPA/CPRA data protection requirements
