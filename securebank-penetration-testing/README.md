@@ -1,35 +1,48 @@
-# 🛡️ SecureBank: Penetration Testing & Threat Hunting
+<h1 align="center">SecureBank Penetration Testing & Threat Analysis</h1>
 
-**Submitted by:** Judy Raj  
-**Date:** March 27, 2025  
-**Focus:** Vulnerability identification (IBM X-Force), Google Dorking analysis, penetration testing planning, and AES symmetric encryption for secure storage.
+<p align="center">
+  Vulnerability Assessment • Threat Hunting • Encryption • Risk Mitigation
+</p>
 
-## Overview
-This project demonstrates a complete vulnerability analysis and ethical penetration testing workflow for a simulated bank, SecureBank. Tasks include: identifying a recent CVE via IBM X-Force Exchange, investigating exposure with Google Dorking, designing a penetration testing plan, and securing sensitive credentials using AES symmetric encryption.
+<hr/>
 
-## Artifacts
-- `Penetration_Testing_Report_Judy_Raj.pdf` — full project report and findings
-- `SecureBank_Project5_Submission.pdf` — original submission summary (answers)
-- `references.txt`
-- `/images/` — screenshots and evidence (placeholders)
+## 🛡️ Overview
+This project presents a structured vulnerability assessment and ethical penetration testing workflow for a simulated banking platform, **SecureBank**. The engagement covers threat identification, exposure analysis, penetration test planning, and secure data handling using encryption.
 
-Contents:
-1. Identified vulnerability using IBM X-Force Exchange (CVE-2024-43451)
-2. Investigation using Google Dorking (site, gov, and filetype filters)
-3. Penetration Testing Plan:
-   - Scope definition
-   - Objectives prioritization
-   - Rules of engagement
-   - Discovery approach
-   - Exploitation strategy
-   - Reporting methods
-4. Symmetric Encryption (AES):
-   - File creation (userdetails)
-   - Key generation
-   - Encryption
-   - Encrypted file contents
-   - Decryption and verification
+The assessment workflow aligns with industry practices for financial services security testing and demonstrates a full attack-to-remediation lifecycle.
 
+## 🎯 Engagement Scope
+- Identify a high-risk vulnerability using **IBM X-Force Exchange**
+- Analyze public exposure using **Google Dorking**
+- Design a penetration testing plan (scope, rules, exploitation, reporting)
+- Secure sensitive credential data using **AES symmetric encryption**
 
-Images Folder:
-Contains screenshots demonstrating all project steps, including IBM X-Force Exchange analysis, Google Dorking queries, encryption/decryption commands, and resulting outputs.
+## 📂 Artifacts
+- **Penetration_Testing_Report_Judy_Raj.pdf** — full findings and analysis  
+- **SecureBank_Project5_Submission.pdf** — project submission summary  
+- **references.txt** — research sources  
+- **/images/** — screenshots and supporting evidence  
+
+## 🔎 Key Findings & Activities
+
+### Vulnerability Intelligence
+- Identified CVE-2024-43451 using IBM X-Force Exchange  
+- Assessed exploitability and business impact  
+
+### Exposure Analysis
+- Used Google Dorking (site, filetype, gov operators) to simulate open-source reconnaissance
+
+### Penetration Testing Plan
+- Defined scope and objectives  
+- Established rules of engagement  
+- Designed discovery, exploitation, and reporting phases  
+
+### Data Protection via AES Encryption
+- Generated encryption keys  
+- Encrypted sensitive credential files  
+- Validated decryption and data integrity  
+
+## 🧠 Security Value
+This project demonstrates how threat intelligence, reconnaissance, testing strategy, and encryption controls can be combined to protect financial systems from real-world attack vectors.
+
+It highlights the importance of structured testing, evidence-based reporting, and secure data handling in regulated environments.
