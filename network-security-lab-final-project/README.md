@@ -1,30 +1,15 @@
-# 🔒 Network Security Lab – Final Project
+<h1 align="center">Network Security Architecture & Traffic Analysis</h1>
 
-**Course:** Coursera – Network Security Fundamentals  
-**Total Points:** 50  
-**Prepared by:** Judy Raj
+<p align="center">
+  Network Segmentation • Firewall Controls • Traffic Inspection • Secure Design
+</p>
 
-This lab demonstrates network segmentation, subnetting, packet analysis, and Windows Defender Firewall configuration to secure FTP and HTTP/HTTPS traffic.
+<hr/>
 
-## Task Overview
-| Task | Description | Points |
-|------|--------------|--------|
-| 1 | Design network with router, switch, and 3 subnets | 5 |
-| 2 | Calculate subnet addresses and masks | 15 |
-| 3 | Analyze HTTP/HTTPS traffic with Wireshark | 10 |
-| 4.1–4.6 | Configure and test Windows Defender Firewall rules | 20 |
+## 🔒 Overview
+This project demonstrates the design and validation of a secure enterprise network architecture using subnetting, traffic inspection, and firewall enforcement. The lab simulates a segmented corporate environment and applies layered security controls to restrict and monitor network traffic.
 
-## Skills Demonstrated
-- Network Design & Subnetting  
-- Firewall Configuration (Windows Defender)  
-- Wireshark Traffic Analysis  
-- Protocol Understanding (HTTP, HTTPS, FTP)  
-- Security Troubleshooting
+The implementation focuses on protecting internal systems from unauthorized access while allowing required services through controlled firewall rules.
 
-## Outcome
-Demonstrated proficiency in applying cybersecurity fundamentals through practical lab configuration and analysis.
-
-## References
-Coursera – Network Security Fundamentals  
-Microsoft Docs – Windows Defender Firewall  
-Wireshark User Guide
+## 🎯 Engagement Scope
+- Design a segmented network with router, switch, and multiple subnets  
